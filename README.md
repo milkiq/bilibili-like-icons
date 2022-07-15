@@ -18,7 +18,9 @@ bilibili 点赞时动画文件
 2022-07-14 更新
 
 | 序号 | 图标 | 名称 | 订阅URL |
-  | -- | -- | -- | -- |
+| -- | -- | -- | -- |
+| 36352 | <img src="http://i0.hdslb.com/bfs/garb/item/dcf04e6a8c9406b3809b4c726597b99d526a89b2.png" width="100" /> | 七海地雷套装 | `http://i0.hdslb.com/bfs/garb/item/912c8b49920848300eb80769afb88edf10b655e7.bin` |
+| 36391 | <img src="http://i0.hdslb.com/bfs/garb/item/742d47ee7c71fd03c6c8d3ef15bc014f15097f43.png" width="100" /> | 冰糖IO 蜕变·闪耀 | `http://i0.hdslb.com/bfs/garb/item/bd2fa7ef2486e8f7d531d588818ec5d74c8adc0e.bin` |
 | 4019 | <img src="http://i0.hdslb.com/bfs/garb/item/5b158d42880fb3f5f63be6249c9e547ae006db49.png" width="100" /> | 良辰美景·不问天 | `http://i0.hdslb.com/bfs/garb/item/523ff217f8ad31fb0e202a88ce330f20c794eba2.bin` |
 | 32296 | <img src="http://i0.hdslb.com/bfs/garb/item/d31a297412d06f0f874c66da6ba3bd9864e9cb0b.png" width="100" /> | EveOneCat2 | `http://i0.hdslb.com/bfs/garb/item/40f501fffcf8f33beff7a3e647fa7c9d113ed569.bin` |
 | 2010 | <img src="http://i0.hdslb.com/bfs/garb/item/6c79c102c0923d32d09c7c5d9530b1a084ad3530.png" width="100" /> | 明日方舟 | `http://i0.hdslb.com/bfs/garb/item/312d841ef4c3d17571daaf641118d55f0918d3a2.bin` |
