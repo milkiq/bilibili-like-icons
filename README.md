@@ -12,6 +12,7 @@ bilibili 点赞时动画文件
 | 32978 | <img src="http://i0.hdslb.com/bfs/garb/item/1e0fda6e0daeb144a1cf6b2d14a222f93f4be0ec.png" width="100" /> | 贝拉kira | `http://i0.hdslb.com/bfs/garb/item/f9a3f4aadb1cf268fc411c7b4cc99d07df3e778a.bin` |
 | 34805 | <img src="http://i0.hdslb.com/bfs/garb/item/6a135ccbf689ca013b2e7f595dc9b1f3273471c9.png" width="100" /> | 嘉然个性装扮2.0 | `http://i0.hdslb.com/bfs/garb/item/b4ddbe5a062e2f13c7d7f6764c2984c5ec8ecee8.bin` |
 | 35906 | <img src="http://i0.hdslb.com/bfs/garb/item/8ce2038f9c164c46e837f571d62a153791354c39.png" width="100" /> | 向晚个性装扮2.0 | `http://i0.hdslb.com/bfs/garb/item/2fc51a7f443b4c3507a72425377f03370e65ff0d.bin` |
+| 37611 | <img src="http://i0.hdslb.com/bfs/garb/item/779f8f74fb89c2c8a2d5c62d1ff223d8412db8f9.png" width="100" /> | 贝拉个性装扮2.0 | `http://i0.hdslb.com/bfs/garb/item/e462cf0b026218a2e3eefccf45d70c053b546eda.bin` |
 
 ## 其他装扮
 
